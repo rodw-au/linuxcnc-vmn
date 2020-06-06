@@ -1,2 +1,1 @@
-# linuxcnc-vmn
-Copy of linuxcnc
+# test
